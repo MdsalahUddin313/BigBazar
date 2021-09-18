@@ -1,3 +1,8 @@
+## System
+    Frontend:-Nextjs,MaterialUi,Bootstrap.
+    State Management:Redux
+    Database:-Mongo Db
+    
 ## Importing libraries
 
 1.npm material ui
