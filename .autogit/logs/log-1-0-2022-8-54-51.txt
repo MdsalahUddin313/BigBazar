@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jan 01 2022 08:54:51 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-30-11-2021-14-49-13.txt
+
+
+Deleted files:
+
+
+Renamed files:
