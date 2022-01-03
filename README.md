@@ -9,6 +9,6 @@
 2.npm material ui icons
 3.npm i chart.js/(npm install --save react-chartjs-2 chart.js)
 4.$npm install recharts(for easier charts making)
-5.
+5.npm install --save next-auth (login registration)
 6.
 7.# BigBazar
