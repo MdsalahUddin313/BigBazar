@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jan 03 2022 18:55:09 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* README.md
+
+
+Created files:
+* .autogit/logs/log-3-0-2022-14-56-34.txt
+* pages/api/auth/[...nextauth.js]
+
+
+Deleted files:
+* pages/api/hello.js
+
+
+Renamed files:
