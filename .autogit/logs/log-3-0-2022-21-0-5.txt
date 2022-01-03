@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jan 03 2022 21:00:05 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* pages/api/auth/[...nextauth].js
+
+
+Created files:
+* .autogit/logs/log-3-0-2022-20-25-29.txt
+
+
+Deleted files:
+
+
+Renamed files:
